@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Please note that this is a fork from [FuzzySharp](https://github.com/JakeBayer/FuzzySharp) and does not contains source code. The sole purpose of it 
 is to provide the usage-ready version of compiled binaries, for both win and linux x64. I DO NOT OWN THIS CODE and its licensed
-by [@JakeBayer](https://github.com/JakeBayer) with the standart MIT License. The Compiled binaries are from the version under the next id
+by [@JakeBayer](https://github.com/JakeBayer) with the standart MIT License. The Compiled binaries are from the version under the next commit id
 53b71acd66e53a4ff9f4229348de48295f99c0a5
 
 
